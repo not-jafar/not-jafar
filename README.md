@@ -24,7 +24,7 @@ I'm Jafar, a 17-year-old student at Bit Academy. I'm currently diving deep into 
 
 [](https://github.com/jafar#-fun-fact)
 
-I love coding when it feels natural—just vibing with music, typing away without thinking too hard. That’s the sweet spot I aim for.
+I love coding when it feels natural, just vibing with music, typing away without thinking too hard. That’s the sweet spot I aim for.
 
 ## 📫 How to reach me
 
