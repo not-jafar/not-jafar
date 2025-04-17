@@ -1,16 +1,33 @@
-## Hi there 👋
+## 🙃 About me
 
-<!--
-**not-jafar/not-jafar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[](https://github.com/jafar#-about-me)
 
-Here are some ideas to get you started:
+I'm Jafar, a 17-year-old student at Bit Academy. I'm currently diving deep into backend development, learning all about databases and Laravel. I love building clean, efficient systems and discovering how everything fits together under the hood.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 I’m currently working on
+
+[](https://github.com/jafar#-im-currently-working-on)
+
+-   Learning how to build solid, scalable backend applications with Laravel
+-   Playing around with databases and structuring them properly
+-   Becoming a backend wizard while still having fun along the way 😎
+
+## 🌱 I’m currently learning
+
+[](https://github.com/jafar#-im-currently-learning)
+
+-   Laravel and modern PHP development
+-   SQL and database management
+-   How to write clean, secure backend code
+
+## ⚡ Fun fact
+
+[](https://github.com/jafar#-fun-fact)
+
+I love coding when it feels natural—just vibing with music, typing away without thinking too hard. That’s the sweet spot I aim for.
+
+## 📫 How to reach me
+
+[](https://github.com/jafar#-how-to-reach-me)
+
+You can reach me on LinkedIn as **[Jafar Alkhafaji]([https://discord.com/users/yourDiscordID](https://www.linkedin.com/in/jafar-alkhafaji-9135a822a/))**.
