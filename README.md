@@ -30,4 +30,4 @@ I love coding when it feels natural—just vibing with music, typing away withou
 
 [](https://github.com/jafar#-how-to-reach-me)
 
-You can reach me on LinkedIn as **[Jafar Alkhafaji]([https://discord.com/users/yourDiscordID](https://www.linkedin.com/in/jafar-alkhafaji-9135a822a/))**.
+You can reach me on LinkedIn as **[Jafar Alkhafaji]([Jafar Alkhafaji](https://www.linkedin.com/in/jafar-alkhafaji-9135a822a/))**.
