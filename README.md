@@ -2,7 +2,7 @@
 
 [](https://github.com/jafar#-about-me)
 
-I'm Jafar, a 17-year-old student at Bit Academy. I'm currently diving deep into backend development, learning all about databases and Laravel. I love building clean, efficient systems and discovering how everything fits together under the hood.
+I'm Jafar, a 18-year-old student at Bit Academy. I'm currently diving deep into backend development, learning all about databases and Laravel. I love building clean, efficient systems and discovering how everything fits together under the hood.
 
 ## 🔭 I’m currently working on
 
